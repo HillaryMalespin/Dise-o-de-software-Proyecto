@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+@{
+    var currentPath = Context.Request.Path;
+}
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ARCA</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/accessibility.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ARCA.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+</head>
+<body>
+    <header class="main-header" aria-label="Cabecera principal">
+        <div class="header-container">
+            <h1 class="logo" aria-label="ARCA">
+                <a asp-page="/Index" class="logo-link">
+                    <img src="~/images/logo-arca.png" class="logo-image" alt="Logo ARCA" />
+                    <div class="logo-text-container">
+                        <span class="logo-text">ARCA</span>
+                        <span class="logo-subtitle">Repositorio de Documentos CCSS</span>
+                    </div>
+                </a>
+            </h1>
+            <nav class="main-nav" aria-label="Navegación principal">
+                <ul>
+                    <li>
+                        @if (currentPath != "/")
+                        {
+                            <a href="/">Inicio</a>
+                        }
+                        else
+                        {
+                            <a href="/" aria-current="page">Inicio</a>
+                        }
+                    </li>
+                    <li>
+                        @if (currentPath != "/documentos")
+                        {
+                            <a href="/documentos">Documentos</a>
+                        }
+                        else
+                        {
+                            <a href="/documentos" aria-current="page">Documentos</a>
+                        }
+                    </li>
+                    <li>
+                        @if (currentPath != "/noticias")
+                        {
+                            <a href="/noticias">Noticias</a>
+                        }
+                        else
+                        {
+                            <a href="/noticias" aria-current="page">Noticias</a>
+                        }
+                    </li>
+                    <li>
+                        @if (currentPath != "/contacto")
+                        {
+                            <a href="/contacto">Contacto</a>
+                        }
+                        else
+                        {
+                            <a href="/contacto" aria-current="page">Contacto</a>
+                        }
+                    </li>
+                </ul>
+            </nav>
+            <div class="header-actions">
+                <!-- Buscador -->
+                <div class="search-container">
+                    <input type="text" placeholder="Buscar..." class="search-input">
+                    <button class="search-button">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Cambiar modo claro/oscuro">
+                    <img src="~/images/icons/sun-icon.svg" class="theme-icon" alt="Modo oscuro/claro" />
+
+                </button>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+<!-- Footer Principal (arriba) -->
+<footer class="main-footer">
+    <div class="footer-container">
+        <div class="footer-left">
+            <div class="footer-links">
+                <span>Módulo interno</span> | 
+                <span>Mapa del sitio</span> | 
+                <span>Privacidad</span>
+                <div class="footer-text left-align">
+                    <span>Página validada por: W3C | WAVE</span>
+                </div>
+                <div class="footer-text left-align">
+                    <span>Última actualización: 17/06/2025</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Footer Secundario (abajo) -->
+<footer class="secondary-footer">
+    <div class="footer-container">
+        <!-- Columna izquierda (links) -->
+        <div class="footer-col left-col">
+            <ul>
+                <li><a href="/privacidad">Política de privacidad</a></li>
+                <li><a href="/terminos">Términos de uso</a></li>
+                <li><a href="/contacto-tecnico">Contacto técnico</a></li>
+                <li><a href="/manual">Manual de usuario</a></li>
+            </ul>
+        </div>
+
+        <!-- Columna central (texto) -->
+        <div class="footer-col center-col">
+            <p>Plataforma gestionada por funcionarios de RIPSSHA, CCSS. No es un sitio oficial.</p>
+            <p class="copyright">Copyright &copy; 2025 | ARCA</p>
+        </div>
+
+        <!-- Columna derecha (redes sociales) -->
+        <div class="footer-col right-col">
+            <div class="social-icons">
+                <a href="#"><img src="~/images/icons/instagram.svg" class="social-icon" alt="Instagram"></a>
+                <a href="#"><img src="~/images/icons/facebook.svg" class="social-icon" alt="Facebook"></a>
+                <a href="#"><img src="~/images/icons/x.svg" class="social-icon" alt="X"></a>
+                <a href="#"><img src="~/images/icons/spotify.svg" class="social-icon" alt="Spotify"></a>
+                <a href="#"><img src="~/images/icons/linkedin.svg" class="social-icon" alt="LinkedIn"></a>
+                <a href="#"><img src="~/images/icons/whatsapp.svg" class="social-icon" alt="WhatsApp"></a>
+                <a href="#"><img src="~/images/icons/telegram.svg" class="social-icon" alt="Telegram"></a>
+                <a href="#"><img src="~/images/icons/tiktok.svg" class="social-icon" alt="TikTok"></a>
+                <a href="#"><img src="~/images/icons/youtube.svg" class="social-icon" alt="YouTube"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <!-- Botón de accesibilidad flotante -->
+    <button id="accessibility-btn" class="btn btn-primary rounded-circle accessibility-btn" title="Accesibilidad" aria-label="Menú de accesibilidad">
+        <i class="fas fa-universal-access"></i>
+    </button>
+
+    <!-- Menú de accesibilidad (se muestra al hacer clic en el botón) -->
+    <div class="accessibility-menu" role="dialog" aria-labelledby="accessibility-menu-title" hidden>
+        <h2 id="accessibility-menu-title">Opciones de accesibilidad</h2>
+        <div class="accessibility-options">
+            <button class="font-increase" aria-label="Aumentar tamaño de fuente">A+</button>
+            <button class="font-decrease" aria-label="Disminuir tamaño de fuente">A-</button>
+            <button class="high-contrast" aria-label="Alternar alto contraste">Alto contraste</button>
+            <button class="reading-mode" aria-label="Alternar modo lectura">Modo lectura</button>
+        </div>
+        <button class="close-menu" aria-label="Cerrar menú de accesibilidad">×</button>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/accessibility.js" asp-append-version="true"></script>
+    <script src="~/js/dark-mode.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

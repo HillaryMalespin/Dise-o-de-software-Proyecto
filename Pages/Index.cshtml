@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARCA - Repositorio de Documentos CCSS</title>
+    <link rel="stylesheet" href="/css/site.css">
+    <link rel="stylesheet" href="/css/accessibility.css">
+        <!-- Banner Principal -->
+            <section class="main-banner">
+    <div class="banner-overlay"></div>
+    <div class="banner-content">
+        <h1>A.R.C.A</h1>
+    </div>
+</section>
+</head>
+<body>
+
+    <main class="news-section" aria-label="Sección de noticias">
+        <h2 class="section-title">Sección de Noticias</h2>
+
+        <div class="news-container">
+            <!-- Noticia 1 -->
+            <article class="news-card" aria-labelledby="news1-title">
+                <h3 id="news1-title" class="news-title">CCSS refuerza protocolos contra el cáncer de mama en el Día Mundial de la Lucha Contra el Cáncer</h3>
+                <div class="news-meta">
+                    <span class="published-date">Publicado: 28/4/2025</span>
+                </div>
+                <a href="/noticias/protocolos-cancer-mama" class="read-more" aria-label="Leer más sobre protocolos contra el cáncer de mama">Leer más</a>
+            </article>
+
+            <!-- Noticia 2 -->
+            <article class="news-card" aria-labelledby="news2-title">
+                <h3 id="news2-title" class="news-title">Actualización de Protocolos: Nuevas Guías para la Detección Temprana del Cáncer de Mama</h3>
+                <div class="news-meta">
+                    <span class="published-date">Publicado: 28/4/2025</span>
+                </div>
+                <a href="/noticias/guias-deteccion-cancer" class="read-more" aria-label="Leer más sobre guías de detección temprana">Leer más</a>
+            </article>
+
+            <!-- Noticia 3 -->
+            <article class="news-card" aria-labelledby="news3-title">
+                <h3 id="news3-title" class="news-title">Nuevo Instructivo para el Manejo de Medicamentos Esenciales en RIPSSHA (Versión 2.0)</h3>
+                <div class="news-meta">
+                    <span class="published-date">Publicado: 28/4/2025</span>
+                </div>
+                <a href="/noticias/instructivo-medicamentos" class="read-more" aria-label="Leer más sobre el nuevo instructivo de medicamentos">Leer más</a>
+            </article>
+        </div>
+    </main>
+
+    <script src="/js/accessibility.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+</html>
