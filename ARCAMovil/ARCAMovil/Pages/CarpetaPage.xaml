@@ -1,0 +1,58 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ARCAMovil.Pages.CarpetaPage"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="White">
+
+    <Grid RowDefinitions="Auto,*,Auto">
+
+        <!-- ENCABEZADO -->
+        <Grid BackgroundColor="White" Padding="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Image Source="logo_arca.png" HeightRequest="30" Grid.Column="0" />
+            <Label Text="ARCA" Grid.Column="1" FontSize="20" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#003366" FontAttributes="Bold"/>
+            <ImageButton Source="menu_icon.png" Grid.Column="2" HeightRequest="24" BackgroundColor="Transparent"/>
+        </Grid>
+
+        <!-- CONTENIDO -->
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="20" Spacing="10">
+                <Label x:Name="CarpetaLabel" Text="Nombre de Carpeta" FontAttributes="Bold" FontSize="18" TextColor="#003366" />
+
+                <CollectionView x:Name="ArchivosCollectionView" SelectionMode="None">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame BackgroundColor="White" CornerRadius="10" HasShadow="True" Padding="10" Margin="0,5">
+                                <VerticalStackLayout>
+                                    <Label Text="{Binding Nombre}" FontAttributes="Bold" TextColor="#003366" FontSize="16"/>
+                                    <Label Text="Última Actualización: {Binding Fecha}" FontSize="12" TextColor="Gray" />
+                                </VerticalStackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <!-- PIE DE PÁGINA -->
+        <Grid Grid.Row="2" BackgroundColor="#00224D" Padding="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Image Source="accessibility_icon.png" HeightRequest="20" VerticalOptions="Center"/>
+            <StackLayout Grid.Column="1" Padding="10,0">
+                <Label Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS." TextColor="White" FontSize="12"/>
+                <Label Text="No es un sitio oficial. Copyright © 2025 | ARCA" TextColor="White" FontSize="12"/>
+            </StackLayout>
+            <Image Source="alert_icon.png" HeightRequest="20" Grid.Column="2" VerticalOptions="Center"/>
+        </Grid>
+    </Grid>
+</ContentPage>

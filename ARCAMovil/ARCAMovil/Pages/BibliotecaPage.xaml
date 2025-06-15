@@ -1,0 +1,48 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ARCAMovil.Pages.BibliotecaPage"
+             BackgroundColor="White"
+             Title="Biblioteca">
+
+    <Grid RowDefinitions="Auto,*,Auto">
+        <!-- Encabezado con logo -->
+        <Grid BackgroundColor="White" Padding="10" Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Image Source="logo_arca.png" HeightRequest="30" Grid.Column="0" />
+            <Label Text="ARCA" Grid.Column="1" FontSize="20" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#003366" FontAttributes="Bold"/>
+        </Grid>
+
+        <!-- Lista de carpetas -->
+        <ScrollView Grid.Row="1" Padding="20,10">
+            <VerticalStackLayout Spacing="10">
+                <Label Text="Carpetas:" FontAttributes="Bold" TextColor="#003366" FontSize="16"/>
+
+                <Button Text="COVID-19" StyleClass="folderButton" Clicked="OnCarpetaClicked"/>
+                <Button Text="Diabetes Mellitus" StyleClass="folderButton" Clicked="OnCarpetaClicked"/>
+                <Button Text="Dengue" StyleClass="folderButton" Clicked="OnCarpetaClicked"/>
+                <!-- Agrega más carpetas aquí -->
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <!-- Footer -->
+        <Grid Grid.Row="2" BackgroundColor="#00224D" Padding="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Image Source="accessibility_icon.png" HeightRequest="20" VerticalOptions="Center"/>
+            <StackLayout Grid.Column="1" Padding="10,0">
+                <Label Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS." TextColor="White" FontSize="12"/>
+                <Label Text="No es un sitio oficial. Copyright © 2025 | ARCA" TextColor="White" FontSize="12"/>
+            </StackLayout>
+            <Image Source="alert_icon.png" HeightRequest="20" Grid.Column="2" VerticalOptions="Center"/>
+        </Grid>
+    </Grid>
+</ContentPage>

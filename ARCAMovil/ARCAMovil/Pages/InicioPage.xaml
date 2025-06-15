@@ -1,0 +1,150 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ARCAMovil.Pages.InicioPage"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="White">
+
+    <ScrollView>
+        <StackLayout Spacing="0">
+
+            <!-- BARRA SUPERIOR CLARA -->
+            <Grid BackgroundColor="#F5F5F5" HeightRequest="50" Padding="10,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Image Source="logo_arca.png" HeightRequest="30" VerticalOptions="Center" />
+
+                <Label Text="Inicio"
+                       Grid.Column="1"
+                       FontSize="20"
+                       TextColor="Black"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center"
+                       FontAttributes="Bold"/>
+
+                <ImageButton Source="menu_icon.png"
+                             Grid.Column="2"
+                             HeightRequest="24"
+                             WidthRequest="24"
+                             BackgroundColor="Transparent"
+                             VerticalOptions="Center"
+                             Clicked="OnMenuClicked"
+                             />
+            </Grid>
+
+            <!-- BANNER CON ESTILO -->
+            <Grid HeightRequest="160">
+                <Image Source="banner_playa.png" Aspect="AspectFill" />
+
+                <!-- Capa oscura para contraste -->
+                <BoxView BackgroundColor="Black" Opacity="0.6" />
+
+                <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="10">
+
+                    <!-- Título con sombra -->
+                    <Label Text="A.R.C.A"
+                           FontSize="28"
+                           FontAttributes="Bold"
+                           TextColor="White"
+                           HorizontalOptions="Center">
+                        <Label.Shadow>
+                            <Shadow Brush="Black" Offset="2,2" Opacity="0.6" />
+                        </Label.Shadow>
+                    </Label>
+
+                    <!-- Buscador con ícono (CORREGIDO) -->
+                    <Border Stroke="#ccc"
+                            StrokeShape="RoundRectangle 20"
+                            BackgroundColor="White"
+                            HeightRequest="40"
+                            WidthRequest="260"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Center"
+                            Padding="0">
+
+                        <Grid Padding="10"
+                              ColumnSpacing="10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Image Source="search_icon.png"
+                                   HeightRequest="18"
+                                   VerticalOptions="Center"
+                                   Grid.Column="0" />
+
+                            <Entry Placeholder="Buscar..."
+                                   TextColor="Black"
+                                   BackgroundColor="Transparent"
+                                   Grid.Column="1"
+                                   FontSize="14" />
+                        </Grid>
+                    </Border>
+                </StackLayout>
+            </Grid>
+
+            <!-- SECCIÓN DE NOTICIAS -->
+            <StackLayout Padding="20,10">
+                <Label Text="Sección de Noticias" FontSize="18" FontAttributes="Bold" HorizontalOptions="Center" TextColor="#333"/>
+
+                <Grid ColumnSpacing="10" Padding="0,10" VerticalOptions="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <ImageButton Source="left_arrow.png"
+                                 Grid.Column="0"
+                                 HeightRequest="36"
+                                 WidthRequest="36"
+                                 BackgroundColor="Transparent"
+                                 HorizontalOptions="Center"
+                                 VerticalOptions="Center"/>
+
+                    <Border Grid.Column="1"
+                            Stroke="LightGray"
+                            StrokeShape="RoundRectangle 12"
+                            BackgroundColor="White"
+                            Padding="0"
+                            HorizontalOptions="Center">
+                        <VerticalStackLayout>
+                            <Image Source="noticia1.png" Aspect="AspectFill" HeightRequest="150"/>
+                            <Label Text="CCSS refuerza protocolos contra el cáncer de mama en el Día Mundial de la Lucha Contra el Cáncer"
+                                   FontSize="14" Padding="10,5" TextColor="Black"/>
+                            <Label Text="Publicado: 28/4/2025" FontSize="12" TextColor="Gray" Padding="10,0"/>
+                        </VerticalStackLayout>
+                    </Border>
+
+                    <ImageButton Source="right_arrow.png"
+                                 Grid.Column="2"
+                                 HeightRequest="36"
+                                 WidthRequest="36"
+                                 BackgroundColor="Transparent"
+                                 HorizontalOptions="Center"
+                                 VerticalOptions="Center"/>
+                </Grid>
+            </StackLayout>
+
+            <!-- PIE DE PÁGINA -->
+            <Grid BackgroundColor="#00224D" Padding="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Image Source="accessibility_icon.png" HeightRequest="20" VerticalOptions="Center"/>
+                <StackLayout Grid.Column="1" Padding="10,0">
+                    <Label Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS." TextColor="White" FontSize="12"/>
+                    <Label Text="No es un sitio oficial. Copyright © 2025 | ARCA"
+                           TextColor="White" FontSize="12"/>
+                </StackLayout>
+            </Grid>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
