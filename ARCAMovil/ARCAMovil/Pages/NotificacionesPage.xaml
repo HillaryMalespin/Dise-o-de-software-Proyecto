@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ARCAMovil.Pages.NotificacionesPage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="White">
+
+    <Grid RowDefinitions="*, Auto">
+
+        <ScrollView Grid.Row="0">
+            <VerticalStackLayout Spacing="15" Padding="0,0,0,20">
+
+                <Grid BackgroundColor="#F5F5F5" HeightRequest="50" Padding="10,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Source="logo_arca.png" HeightRequest="30" VerticalOptions="Center" />
+                    <Label Text="Notificaciones" Grid.Column="1" FontSize="20" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontAttributes="Bold"/>
+                    <ImageButton Source="menu_icon.png" Grid.Column="2" HeightRequest="24" WidthRequest="24" BackgroundColor="Transparent" VerticalOptions="Center" Clicked="OnMenuClicked" />
+                </Grid>
+
+                <Border Stroke="#e0e0e0"
+                        StrokeThickness="1"
+                        StrokeShape="RoundRectangle 25"
+                        BackgroundColor="#f8f8f8"
+                        HeightRequest="50"
+                        Padding="15,0"
+                        Margin="20,10">
+                    <Grid ColumnDefinitions="Auto, *" ColumnSpacing="10">
+                        <Image Source="search_icon.png" HeightRequest="20" VerticalOptions="Center" />
+                        <Entry Grid.Column="1" Placeholder="Buscar notificaciones..." VerticalOptions="Center" />
+                    </Grid>
+                </Border>
+
+                <Label Text="Centro de Notificaciones:"
+                       FontSize="22"
+                       FontAttributes="Bold"
+                       TextColor="#333"
+                       Margin="20,0,0,0" />
+
+                <VerticalStackLayout Spacing="12" Padding="20,0">
+
+                    <Border Stroke="#e0e0e0" StrokeThickness="1" StrokeShape="RoundRectangle 8" Padding="15">
+                        <Grid ColumnDefinitions="*, Auto" RowSpacing="5">
+                            <VerticalStackLayout Grid.Column="0" Spacing="5">
+                                <Label Text="Nuevo en ARCA: Guía de Bioseguridad" FontSize="16" FontAttributes="Bold" TextColor="Black"/>
+                                <Label Text="Se ha agregado 'Guía de Bioseguridad para Áreas Hospitalarias' al catálogo." FontSize="14" TextColor="#555"/>
+                            </VerticalStackLayout>
+                            <Label Grid.Column="1" Text="Fecha de Publicación:&#x0a;15/11/2024" FontSize="12" TextColor="Gray" HorizontalTextAlignment="End"/>
+                        </Grid>
+                    </Border>
+
+                    <Border Stroke="#e0e0e0" StrokeThickness="1" StrokeShape="RoundRectangle 8" Padding="15">
+                        <Grid ColumnDefinitions="*, Auto" RowSpacing="5">
+                            <VerticalStackLayout Grid.Column="0" Spacing="5">
+                                <Label Text="Documento actualizado" FontSize="16" FontAttributes="Bold" TextColor="Black"/>
+                                <Label Text="El protocolo Manejo de Emergencias 2024 (v3.2) ha sido actualizado." FontSize="14" TextColor="#555"/>
+                            </VerticalStackLayout>
+                            <Label Grid.Column="1" Text="Fecha de Publicación:&#x0a;15/11/2024" FontSize="12" TextColor="Gray" HorizontalTextAlignment="End"/>
+                        </Grid>
+                    </Border>
+
+                </VerticalStackLayout>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <Grid Grid.Row="1" BackgroundColor="#00224D" Padding="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Image Source="accessibility_icon.png" HeightRequest="20" VerticalOptions="Center"/>
+            <StackLayout Grid.Column="1" Padding="10,0">
+                <Label Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS." TextColor="White" FontSize="12"/>
+                <Label Text="No es un sitio oficial. Copyright © 2025 | ARCA" TextColor="White" FontSize="12"/>
+            </StackLayout>
+        </Grid>
+
+    </Grid>
+</ContentPage>

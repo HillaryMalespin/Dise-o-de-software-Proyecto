@@ -1,0 +1,22 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ARCAMovil.Pages.FormularioSugerenciaPage"
+             Title="Formulario de Sugerencias"
+             BackgroundColor="White">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+            <Label Text="Formulario de Sugerencias" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+            <Entry Placeholder="Nombre" x:Name="NombreEntry"/>
+            <Entry Placeholder="Asunto" x:Name="AsuntoEntry"/>
+            <Entry Placeholder="Email" x:Name="EmailEntry"/>
+            <Editor Placeholder="Mensaje" x:Name="MensajeEditor" HeightRequest="120"/>
+
+            <HorizontalStackLayout HorizontalOptions="Center" Spacing="20">
+                <Button Text="Limpiar Espacios" Clicked="OnLimpiarClicked"/>
+                <Button Text="Enviar" Clicked="OnEnviarClicked"/>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

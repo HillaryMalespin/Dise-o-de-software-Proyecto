@@ -22,12 +22,12 @@
         <!-- Lista de PDFs -->
         <ScrollView Grid.Row="1" Padding="20">
             <StackLayout x:Name="PdfStack" Spacing="15">
-                <Label x:Name="lblTituloCarpeta" Text="Categoría:" FontAttributes="Bold" FontSize="18" TextColor="#003366" />
-                <!-- Aquí se agregan dinámicamente los PDFs -->
+                <Label x:Name="lblTituloCarpeta" Text="CategorÃ­a:" FontAttributes="Bold" FontSize="18" TextColor="#003366" />
+                <!-- Aqui se agregan dinamicamente los PDFs -->
             </StackLayout>
         </ScrollView>
 
-        <!-- Pie de página -->
+        <!-- Pie de pagina -->
         <Grid Grid.Row="2" BackgroundColor="#00224D" Padding="10">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
@@ -38,7 +38,7 @@
             <Image Source="accessibility_icon.png" HeightRequest="20" VerticalOptions="Center"/>
             <StackLayout Grid.Column="1" Padding="10,0">
                 <Label Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS." TextColor="White" FontSize="12"/>
-                <Label Text="No es un sitio oficial. Copyright © 2025 | ARCA" TextColor="White" FontSize="12"/>
+                <Label Text="No es un sitio oficial. Copyright Â© 2025 | ARCA" TextColor="White" FontSize="12"/>
             </StackLayout>
             <Image Source="alert_icon.png" HeightRequest="20" Grid.Column="2" VerticalOptions="Center"/>
         </Grid>

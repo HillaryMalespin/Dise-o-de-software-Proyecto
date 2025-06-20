@@ -1,7 +1,8 @@
 ﻿using System.Collections.ObjectModel;
 using static ARCAMovil.Pages.CarpetaPage;
+using ARCAMovil.Helpers;
 
-namespace ARCAMovil.Pages; // ⚠️ Debe coincidir con el espacio de nombres del proyecto
+namespace ARCAMovil.Pages;
 
 public partial class CarpetaPage : ContentPage
 {

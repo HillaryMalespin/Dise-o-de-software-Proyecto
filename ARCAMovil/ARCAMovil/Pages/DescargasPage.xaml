@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ARCAMovil.Pages.DescargasPage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="White">
+
+    <Grid RowDefinitions="*, Auto">
+
+        <Grid Grid.Row="0">
+
+            <ScrollView>
+                <VerticalStackLayout Spacing="15" Padding="0,0,0,20">
+
+                    <Grid BackgroundColor="#F5F5F5" HeightRequest="50" Padding="10,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="logo_arca.png" HeightRequest="30" VerticalOptions="Center" />
+                        <Label Text="Descargas" Grid.Column="1" FontSize="20" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontAttributes="Bold"/>
+                        <ImageButton Source="menu_icon.png" Grid.Column="2" HeightRequest="24" WidthRequest="24" BackgroundColor="Transparent" VerticalOptions="Center" Clicked="OnMenuClicked" />
+                    </Grid>
+
+                    <Border Stroke="#e0e0e0" StrokeThickness="1" StrokeShape="RoundRectangle 25" BackgroundColor="#f8f8f8" HeightRequest="50" Padding="15,0" Margin="20,10">
+                        <Grid ColumnDefinitions="Auto, *" ColumnSpacing="10">
+                            <Image Source="search_icon.png" HeightRequest="20" VerticalOptions="Center" />
+                            <Entry Grid.Column="1" Placeholder="Buscar en descargas..." VerticalOptions="Center" />
+                        </Grid>
+                    </Border>
+
+                    <Label Text="Documentos Descargados:" FontSize="22" FontAttributes="Bold" TextColor="#333" Margin="20,0,0,0" />
+
+                    <VerticalStackLayout Spacing="10" Padding="20,0">
+
+                        <Border Stroke="#e0e0e0" StrokeThickness="1" StrokeShape="RoundRectangle 8" Padding="15">
+                            <Grid ColumnDefinitions="*, Auto, Auto" ColumnSpacing="10">
+                                <Label Grid.Column="0" Text="Guía de Vacunación Antitosferínica" VerticalOptions="Center" FontSize="15" TextColor="Black"/>
+                                <Label Grid.Column="1" Text="Descargado:&#x0a;30/4/2025" VerticalOptions="Center" FontSize="12" HorizontalTextAlignment="End" TextColor="Gray"/>
+                                <ImageButton Grid.Column="2" Source="delete_icon.png" Clicked="OnDeleteClicked" HeightRequest="24" WidthRequest="24" VerticalOptions="Center"/>
+                            </Grid>
+                        </Border>
+
+                        <Border Stroke="#e0e0e0" StrokeThickness="1" StrokeShape="RoundRectangle 8" Padding="15">
+                            <Grid ColumnDefinitions="*, Auto, Auto" ColumnSpacing="10">
+                                <Label Grid.Column="0" Text="Protocolo de Atención en Urgencias para Crisis de Tosferina" VerticalOptions="Center" FontSize="15" TextColor="Black"/>
+                                <Label Grid.Column="1" Text="Descargado:&#x0a;30/4/2025" VerticalOptions="Center" FontSize="12" HorizontalTextAlignment="End" TextColor="Gray"/>
+                                <ImageButton Grid.Column="2" Source="delete_icon.png" Clicked="OnDeleteClicked" HeightRequest="24" WidthRequest="24" VerticalOptions="Center"/>
+                            </Grid>
+                        </Border>
+
+                        <Border Stroke="#e0e0e0" StrokeThickness="1" StrokeShape="RoundRectangle 8" Padding="15">
+                            <Grid ColumnDefinitions="*, Auto, Auto" ColumnSpacing="10">
+                                <Label Grid.Column="0" Text="Recomendaciones para el Manejo de Brotes en Guarderías y Escuelas" VerticalOptions="Center" FontSize="15" TextColor="Black"/>
+                                <Label Grid.Column="1" Text="Descargado:&#x0a;30/4/2025" VerticalOptions="Center" FontSize="12" HorizontalTextAlignment="End" TextColor="Gray"/>
+                                <ImageButton Grid.Column="2" Source="delete_icon.png" Clicked="OnDeleteClicked" HeightRequest="24" WidthRequest="24" VerticalOptions="Center"/>
+                            </Grid>
+                        </Border>
+
+                    </VerticalStackLayout>
+                </VerticalStackLayout>
+            </ScrollView>
+
+            <ImageButton Source="filter_icon.png"
+                         Clicked="OnFilterClicked"
+                         VerticalOptions="End"
+                         HorizontalOptions="End"
+                         Margin="20"
+                         CornerRadius="28"
+                         HeightRequest="56"
+                         WidthRequest="56"
+                         BackgroundColor="#007bff"
+                         Padding="12"/>
+
+        </Grid>
+
+        <Grid Grid.Row="1" BackgroundColor="#00224D" Padding="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Image Source="accessibility_icon.png" HeightRequest="20" VerticalOptions="Center"/>
+            <StackLayout Grid.Column="1" Padding="10,0">
+                <Label Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS." TextColor="White" FontSize="12"/>
+                <Label Text="No es un sitio oficial. Copyright © 2025 | ARCA" TextColor="White" FontSize="12"/>
+            </StackLayout>
+        </Grid>
+
+    </Grid>
+</ContentPage>

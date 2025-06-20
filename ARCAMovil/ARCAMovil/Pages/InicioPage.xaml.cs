@@ -1,22 +1,23 @@
-namespace ARCAMovil.Pages
+using ARCAMovil.Helpers;
 
-{
-    public partial class InicioPage : ContentPage
-    {
-        public InicioPage()
-        {
+namespace ARCAMovil.Pages {
+    public partial class InicioPage : ContentPage {
+        public InicioPage() {
             InitializeComponent();
-        }
-        private async void OnMenuClicked(object sender, EventArgs e)
-        {
-            string action = await DisplayActionSheet("Opciones", "Cancelar", null, "Biblioteca");
-
-            if (action == "Biblioteca")
-            {
-                await Navigation.PushAsync(new BibliotecaPage());
-            }
+            // Agrega esta línea para ocultar la barra de navegación de arriba
+            NavigationPage.SetHasNavigationBar(this, false);
         }
 
+        private async void OnMenuClicked(object sender, EventArgs e) {
+            // Cambiamos las opciones que se muestran en el menú emergente
+            string action = await DisplayActionSheet("Opciones", "Cancelar", null,
+                "Biblioteca de Documentos",
+                "Notificaciones",
+                "Contacto",
+                "Descargas");
 
+            // Llamamos a nuestro método centralizado para que él se encargue de la navegación.
+            await MenuNavigationHelper.HandleMenuSelection(action, this.Navigation);
+        }
     }
 }

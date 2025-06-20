@@ -1,46 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\carpetapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\carpetapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\listapdfpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\listapdfpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\carpetapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\carpetapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\bibliotecapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\bibliotecapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\bibliotecapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\bibliotecapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\iniciopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\iniciopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\iniciopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\carpetapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\carpetapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\descargaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\descargaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\notificacionespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\notificacionespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\contactopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\contactopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\formulariosugerenciapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\formulariosugerenciapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\carpetapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\carpetapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\bibliotecapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\bibliotecapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\descargaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\descargaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\contactopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\contactopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\notificacionespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\notificacionespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\pages\\listapdfpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\listapdfpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\bibliotecapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\bibliotecapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\pages\\formulariosugerenciapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\pages\\formulariosugerenciapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\tec\\is2025\\dise\u00F1o de software\\proyecto3\\arcamovil\\arcamovil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\platforms\\android\\resources\\values\\styles.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\platforms\\android\\resources\\values\\styles.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|c:\\users\\user\\documents\\github\\dise-o-de-software-proyecto\\arcamovil\\arcamovil\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E95780-45DD-4C07-B8BC-411BB7B2E818}|ARCAMovil\\ARCAMovil.csproj|solutionrelative:arcamovil\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,135 +102,306 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InicioPage.xaml.cs",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml.cs",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\InicioPage.xaml.cs",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml.cs",
-              "RelativeToolTip": "ARCAMovil\\Pages\\InicioPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DescargasPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\DescargasPage.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\DescargasPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\DescargasPage.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\DescargasPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T20:54:00.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListaPdfPage.xaml.cs",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\ListaPdfPage.xaml.cs",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\ListaPdfPage.xaml.cs",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\ListaPdfPage.xaml.cs",
-              "RelativeToolTip": "ARCAMovil\\Pages\\ListaPdfPage.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T20:51:55.406Z",
+              "WhenOpened": "2025-06-20T04:17:06.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarpetaPage.xaml",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\CarpetaPage.xaml",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml",
-              "RelativeToolTip": "ARCAMovil\\Pages\\CarpetaPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-14T01:15:47.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BibliotecaPage.xaml.cs",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
-              "RelativeToolTip": "ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Title": "InicioPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\InicioPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\InicioPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwAwAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T20:51:05.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BibliotecaPage.xaml",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\BibliotecaPage.xaml",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml",
-              "RelativeToolTip": "ARCAMovil\\Pages\\BibliotecaPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-12T20:50:12.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InicioPage.xaml",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\InicioPage.xaml",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml",
-              "RelativeToolTip": "ARCAMovil\\Pages\\InicioPage.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-14T00:49:14.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarpetaPage.xaml.cs",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
-              "RelativeToolTip": "ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T01:16:09.562Z",
+              "WhenOpened": "2025-06-19T22:03:36.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ListaPdfPage.xaml",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\ListaPdfPage.xaml",
-              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\ListaPdfPage.xaml",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\Pages\\ListaPdfPage.xaml",
-              "RelativeToolTip": "ARCAMovil\\Pages\\ListaPdfPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Title": "CarpetaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\CarpetaPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T05:55:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\ContactoPage.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\ContactoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\ContactoPage.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\ContactoPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:43:04.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormularioSugerenciaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T05:21:32.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificacionesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\NotificacionesPage.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\NotificacionesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\NotificacionesPage.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\NotificacionesPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:48:56.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\Helpers.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\Helpers.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\Helpers.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T04:52:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarpetaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\CarpetaPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\CarpetaPage.xaml",
+              "RelativeToolTip": "ARCAMovil\\Pages\\CarpetaPage.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-12T20:51:24.008Z",
+              "WhenOpened": "2025-06-20T05:44:37.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ARCAMovil\\App.xaml.cs",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\App.xaml.cs",
-              "RelativeToolTip": "ARCAMovil\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Title": "BibliotecaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\Pages\\BibliotecaPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T19:50:51.508Z"
+              "WhenOpened": "2025-06-20T04:55:32.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "DescargasPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\DescargasPage.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\DescargasPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\DescargasPage.xaml",
+              "RelativeToolTip": "ARCAMovil\\Pages\\DescargasPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T04:16:22.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\ContactoPage.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\ContactoPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\ContactoPage.xaml",
+              "RelativeToolTip": "ARCAMovil\\Pages\\ContactoPage.xaml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwFcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T00:40:18.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificacionesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\NotificacionesPage.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\NotificacionesPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\NotificacionesPage.xaml",
+              "RelativeToolTip": "ARCAMovil\\Pages\\NotificacionesPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T00:38:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InicioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\InicioPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\InicioPage.xaml",
+              "RelativeToolTip": "ARCAMovil\\Pages\\InicioPage.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T22:03:37.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BibliotecaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\BibliotecaPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\BibliotecaPage.xaml",
+              "RelativeToolTip": "ARCAMovil\\Pages\\BibliotecaPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T05:54:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormularioSugerenciaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml",
+              "RelativeToolTip": "ARCAMovil\\Pages\\FormularioSugerenciaPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T05:44:24.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "ARCAMovil\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T23:36:11.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "ARCAMovil\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAALEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T23:40:07.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "ARCAMovil\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-19T23:43:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "styles.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Platforms\\Android\\Resources\\values\\styles.xml",
+              "RelativeDocumentMoniker": "ARCAMovil\\Platforms\\Android\\Resources\\values\\styles.xml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\Platforms\\Android\\Resources\\values\\styles.xml",
+              "RelativeToolTip": "ARCAMovil\\Platforms\\Android\\Resources\\values\\styles.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-19T23:50:14.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\App.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:28:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\App.xaml",
               "RelativeDocumentMoniker": "ARCAMovil\\App.xaml",
-              "ToolTip": "C:\\TEC\\IS2025\\Dise\u00F1o de Software\\Proyecto3\\ARCAMovil\\ARCAMovil\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\App.xaml",
               "RelativeToolTip": "ARCAMovil\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-12T19:50:43.799Z"
+              "WhenOpened": "2025-06-19T22:28:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ARCAMovil\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\AppShell.xaml",
+              "RelativeToolTip": "ARCAMovil\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T22:17:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ARCAMovil\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ARCAMovil\\ARCAMovil\\AppShell.xaml.cs",
+              "RelativeToolTip": "ARCAMovil\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T22:17:31.919Z",
+              "EditorCaption": ""
             }
           ]
         }
