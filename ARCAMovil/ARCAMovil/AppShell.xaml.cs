@@ -1,9 +1,12 @@
-﻿namespace ARCAMovil;
+﻿using ARCAMovil.Pages;
 
-public partial class AppShell : Shell
-{
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+namespace ARCAMovil;
+
+public partial class AppShell : Shell {
+    public AppShell() {
+        InitializeComponent();
+
+        // Registramos la ruta para poder navegar a la página de detalle
+        Routing.RegisterRoute(nameof(NoticiaDetallePage), typeof(NoticiaDetallePage));
+    }
 }

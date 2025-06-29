@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ARCAMovil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5c6a57db269471e5e52df35a1b768b84d5c27ee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cb4ed2c62e1fcab1450c7889511e2b20811c3a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("ARCAMovil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ARCAMovil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

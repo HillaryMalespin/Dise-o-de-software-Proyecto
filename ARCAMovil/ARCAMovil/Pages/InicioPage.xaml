@@ -1,138 +1,174 @@
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ARCAMovil.Pages.InicioPage"
-             NavigationPage.HasNavigationBar="False"
-             BackgroundColor="White">
-
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ARCAMovil.Pages.InicioPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewmodels="clr-namespace:ARCAMovil.ViewModels"
+    BackgroundColor="White"
+    Shell.NavBarIsVisible="False">
     <Grid RowDefinitions="*, Auto">
-
         <ScrollView Grid.Row="0">
             <StackLayout Spacing="0">
 
-                <Grid BackgroundColor="#F5F5F5" HeightRequest="50" Padding="10,0,10,0">
+                <Grid
+                    Padding="10,0"
+                    BackgroundColor="#F5F5F5"
+                    HeightRequest="50">
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto" />
                         <ColumnDefinition Width="*" />
-                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto" />
                     </Grid.ColumnDefinitions>
 
-                    <Image Source="logo_arca.png" HeightRequest="30" VerticalOptions="Center" />
+                    <Image
+                        Grid.Column="0"
+                        HeightRequest="30"
+                        Source="logo_arca.png"
+                        VerticalOptions="Center" />
 
-                    <Label Text="Inicio"
-                           Grid.Column="1"
-                           FontSize="20"
-                           TextColor="Black"
-                           VerticalOptions="Center"
-                           HorizontalOptions="Center"
-                           FontAttributes="Bold"/>
+                    <Label
+                        Grid.Column="1"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalOptions="Center"
+                        Text="Inicio"
+                        TextColor="Black"
+                        VerticalOptions="Center" />
 
-                    <ImageButton Source="menu_icon.png"
-                                 Grid.Column="2"
-                                 HeightRequest="24"
-                                 WidthRequest="24"
-                                 BackgroundColor="Transparent"
-                                 VerticalOptions="Center"
-                                 Clicked="OnMenuClicked"
-                                 />
+                    <ImageButton
+                        Grid.Column="2"
+                        Source="menu_icon.png"
+                        HeightRequest="24"
+                        WidthRequest="24"
+                        BackgroundColor="Transparent"
+                        VerticalOptions="Center"
+                        Clicked="OnMenuClicked"/>
+
                 </Grid>
 
                 <Grid HeightRequest="160">
-                    <Image Source="banner_playa.png" Aspect="AspectFill" />
+                    <Image Aspect="AspectFill" Source="banner_playa.png" />
                     <BoxView BackgroundColor="Black" Opacity="0.6" />
-                    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="10">
-                        <Label Text="A.R.C.A"
-                               FontSize="28"
-                               FontAttributes="Bold"
-                               TextColor="White"
-                               HorizontalOptions="Center">
+                    <StackLayout
+                        HorizontalOptions="Center"
+                        Spacing="10"
+                        VerticalOptions="Center">
+                        <Label
+                            FontAttributes="Bold"
+                            FontSize="28"
+                            HorizontalOptions="Center"
+                            Text="A.R.C.A"
+                            TextColor="White">
                             <Label.Shadow>
-                                <Shadow Brush="Black" Offset="2,2" Opacity="0.6" />
+                                <Shadow
+                                    Brush="Black"
+                                    Opacity="0.6"
+                                    Offset="2,2" />
                             </Label.Shadow>
                         </Label>
-                        <Border Stroke="#ccc"
-                                StrokeShape="RoundRectangle 20"
-                                BackgroundColor="White"
-                                HeightRequest="40"
-                                WidthRequest="260"
-                                VerticalOptions="Center"
-                                HorizontalOptions="Center"
-                                Padding="0">
-                            <Grid Padding="10" ColumnSpacing="10">
+                        <Border
+                            BackgroundColor="White"
+                            HeightRequest="40"
+                            HorizontalOptions="Center"
+                            Stroke="#ccc"
+                            StrokeShape="RoundRectangle 20"
+                            VerticalOptions="Center"
+                            WidthRequest="260">
+                            <Grid ColumnSpacing="10" Padding="10">
                                 <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto" />
                                     <ColumnDefinition Width="*" />
                                 </Grid.ColumnDefinitions>
-                                <Image Source="search_icon.png"
-                                       HeightRequest="18"
-                                       VerticalOptions="Center"
-                                       Grid.Column="0" />
-                                <Entry Placeholder="Buscar..."
-                                       TextColor="Black"
-                                       BackgroundColor="Transparent"
-                                       Grid.Column="1"
-                                       FontSize="14" />
+                                <Image
+                                    Grid.Column="0"
+                                    HeightRequest="18"
+                                    Source="search_icon.png"
+                                    VerticalOptions="Center" />
+                                <Entry
+                                    Grid.Column="1"
+                                    BackgroundColor="Transparent"
+                                    FontSize="14"
+                                    Placeholder="Buscar..."
+                                    TextColor="Black" />
                             </Grid>
                         </Border>
                     </StackLayout>
                 </Grid>
 
                 <StackLayout Padding="20,10">
-                    <Label Text="Sección de Noticias" FontSize="18" FontAttributes="Bold" HorizontalOptions="Center" TextColor="#333"/>
-                    <Grid ColumnSpacing="10" Padding="0,10" VerticalOptions="Center">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="Auto"/>
-                            <ColumnDefinition Width="*" />
-                            <ColumnDefinition Width="Auto"/>
-                        </Grid.ColumnDefinitions>
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="18"
+                        HorizontalOptions="Center"
+                        Text="Sección de Noticias"
+                        TextColor="#333" />
 
-                        <ImageButton Source="left_arrow.png"
-                                     Grid.Column="0"
-                                     HeightRequest="36"
-                                     WidthRequest="36"
-                                     BackgroundColor="Transparent"
-                                     HorizontalOptions="Center"
-                                     VerticalOptions="Center"/>
-
-                        <Border Grid.Column="1"
-                                Stroke="LightGray"
-                                StrokeShape="RoundRectangle 12"
-                                BackgroundColor="White"
-                                Padding="0"
-                                HorizontalOptions="Center">
-                            <VerticalStackLayout>
-                                <Image Source="noticia1.png" Aspect="AspectFill" HeightRequest="150"/>
-                                <Label Text="CCSS refuerza protocolos contra el cáncer de mama en el Día Mundial de la Lucha Contra el Cáncer"
-                                       FontSize="14" Padding="10,5" TextColor="Black"/>
-                                <Label Text="Publicado: 28/4/2025" FontSize="12" TextColor="Gray" Padding="10,0,10,10"/>
-                            </VerticalStackLayout>
-                        </Border>
-
-                        <ImageButton Source="right_arrow.png"
-                                     Grid.Column="2"
-                                     HeightRequest="36"
-                                     WidthRequest="36"
-                                     BackgroundColor="Transparent"
-                                     HorizontalOptions="Center"
-                                     VerticalOptions="Center"/>
-                    </Grid>
+                    <CarouselView
+                        HeightRequest="200"
+                        IndicatorView="indicator"
+                        ItemsSource="{Binding Noticias}">
+                        <CarouselView.ItemTemplate>
+                            <DataTemplate>
+                                <Frame
+                                    Margin="5"
+                                    CornerRadius="12"
+                                    HasShadow="True">
+                                    <Frame.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:InicioViewModel}}, Path=GoToDetailsCommand}" CommandParameter="{Binding .}" />
+                                    </Frame.GestureRecognizers>
+                                    <Grid>
+                                        <Image
+                                            Aspect="AspectFill"
+                                            Source="{Binding ImagenUrl}" />
+                                        <BoxView BackgroundColor="Black" Opacity="0.4" />
+                                        <StackLayout
+                                            Padding="10"
+                                            VerticalOptions="End">
+                                            <Label
+                                                FontAttributes="Bold"
+                                                Text="{Binding Titulo}"
+                                                TextColor="White" />
+                                            <Label
+                                                FontSize="12"
+                                                Text="{Binding FechaPublicacion, StringFormat='Publicado: {0:dd/MM/yyyy}'}"
+                                                TextColor="White" />
+                                        </StackLayout>
+                                    </Grid>
+                                </Frame>
+                            </DataTemplate>
+                        </CarouselView.ItemTemplate>
+                    </CarouselView>
+                    <IndicatorView
+                        x:Name="indicator"
+                        Margin="0,-20,0,0"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Start" />
                 </StackLayout>
-
             </StackLayout>
         </ScrollView>
 
-        <Grid Grid.Row="1" BackgroundColor="#00224D" Padding="10">
+        <Grid
+            Grid.Row="1"
+            Padding="10"
+            BackgroundColor="#00224D">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto" />
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-
-            <Image Source="accessibility_icon.png" HeightRequest="20" VerticalOptions="Center"/>
+            <Image
+                HeightRequest="20"
+                Source="accessibility_icon.png"
+                VerticalOptions="Center" />
             <StackLayout Grid.Column="1" Padding="10,0">
-                <Label Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS." TextColor="White" FontSize="12"/>
-                <Label Text="No es un sitio oficial. Copyright © 2025 | ARCA"
-                       TextColor="White" FontSize="12"/>
+                <Label
+                    FontSize="12"
+                    Text="Plataforma gestionada por funcionarios de RIPSSHA, CCSS."
+                    TextColor="White" />
+                <Label
+                    FontSize="12"
+                    Text="No es un sitio oficial. Copyright © 2025 | ARCA"
+                    TextColor="White" />
             </StackLayout>
         </Grid>
-
     </Grid>
 </ContentPage>

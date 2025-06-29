@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\modelo\\noticiasummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:modelo\\noticiasummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\data\\aplicaciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:data\\aplicaciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\controllers\\categoriascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:controllers\\categoriascontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\controllers\\carpetastematicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:controllers\\carpetastematicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:controllers\\documentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|c:\\users\\usuario\\documents\\github\\dise-o-de-software-proyecto\\apiazuredb\\apiazuredb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B477532B-6B94-0FF5-45BA-0B70ACFE0A83}|ApiAzureDB.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoticiasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\NoticiasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NoticiasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\NoticiasController.cs",
+              "RelativeToolTip": "Controllers\\NoticiasController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:31:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoticiaSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Modelo\\NoticiaSummaryDto.cs",
+              "RelativeDocumentMoniker": "Modelo\\NoticiaSummaryDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Modelo\\NoticiaSummaryDto.cs",
+              "RelativeToolTip": "Modelo\\NoticiaSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T03:30:15.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T19:07:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:19:35.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriasControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\CategoriasControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasControllers.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\CategoriasControllers.cs",
+              "RelativeToolTip": "Controllers\\CategoriasControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:46:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarpetasTematicasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\CarpetasTematicasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarpetasTematicasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\CarpetasTematicasController.cs",
+              "RelativeToolTip": "Controllers\\CarpetasTematicasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:43:13.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\DocumentosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Controllers\\DocumentosController.cs",
+              "RelativeToolTip": "Controllers\\DocumentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:41:45.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T21:30:46.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T21:30:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicacionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Data\\AplicacionDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AplicacionDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Dise-o-de-software-Proyecto\\ApiAzureDB\\ApiAzureDB\\Data\\AplicacionDbContext.cs",
+              "RelativeToolTip": "Data\\AplicacionDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:22:05.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

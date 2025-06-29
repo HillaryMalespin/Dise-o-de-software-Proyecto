@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ARCAMovil.Pages.NoticiaDetallePage"
+             Title="{Binding NoticiaMostrada.Titulo}">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+            <Image Source="{Binding NoticiaMostrada.ImagenURL}"
+                   Aspect="AspectFill"
+                   HeightRequest="250"
+                   HorizontalOptions="Fill" />
+            <Label Text="{Binding NoticiaMostrada.Titulo}"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="Black" />
+            <Label Text="{Binding NoticiaMostrada.FechaPublicacion, StringFormat='{0:dd/MM/yyyy}'}"
+                   FontSize="14"
+                   TextColor="Gray" />
+            <Label Text="{Binding NoticiaMostrada.Contenido}"
+                   FontSize="16"
+                   TextColor="#333" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,10 +1,11 @@
+using ARCAMovil.ViewModels;
 using ARCAMovil.Helpers;
 
 namespace ARCAMovil.Pages {
     public partial class InicioPage : ContentPage {
-        public InicioPage() {
+        public InicioPage(InicioViewModel viewModel) {
             InitializeComponent();
-            // Agrega esta línea para ocultar la barra de navegación de arriba
+            BindingContext = viewModel;
             NavigationPage.SetHasNavigationBar(this, false);
         }
 

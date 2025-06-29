@@ -1,0 +1,168 @@
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\appsettings.Development.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\appsettings.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.staticwebassets.endpoints.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.exe
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.deps.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.runtimeconfig.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.pdb
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Azure.Core.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Azure.Identity.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.ClientModel.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Memory.Data.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Text.Json.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.csproj.AssemblyReference.cache
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.AssemblyInfoInputs.cache
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.AssemblyInfo.cs
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.csproj.CoreCompileInputs.cache
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.MvcApplicationPartsAssemblyInfo.cs
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.MvcApplicationPartsAssemblyInfo.cache
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.sourcelink.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\scopedcss\bundle\ApiAzureDB.styles.css
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\staticwebassets.build.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\staticwebassets.development.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.csproj.Up2Date
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\refint\ApiAzureDB.dll
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.pdb
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.genruntimeconfig.cache
+C:\TEC\IS2025\Diseño de Software\PY03\Dise-o-de-software-Proyecto-Mobile\Dise-o-de-software-Proyecto-Mobile\ApiAzureDB\obj\Debug\net9.0\ref\ApiAzureDB.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\appsettings.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.staticwebassets.endpoints.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.exe
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.deps.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\ApiAzureDB.pdb
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\scopedcss\bundle\ApiAzureDB.styles.css
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.csproj.Up2Date
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\refint\ApiAzureDB.dll
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.pdb
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ApiAzureDB.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\Dise-o-de-software-Proyecto\ApiAzureDB\ApiAzureDB\obj\Debug\net9.0\ref\ApiAzureDB.dll
