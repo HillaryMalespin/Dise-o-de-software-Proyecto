@@ -14,7 +14,8 @@ namespace ARCAMovil.Services
 
         public async Task<List<CarpetaDto>> ObtenerCarpetasAsync()
         {
-            var url = "https://localhost:5001/api/CarpetasTematicas"; // 
+            var url = "https://10.0.2.2:5001/api/CarpetasTematicas";
+            // 
             var carpetas = await _httpClient.GetFromJsonAsync<List<CarpetaDto>>(url);
             return carpetas ?? new List<CarpetaDto>();
         }
