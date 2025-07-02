@@ -1,21 +1,14 @@
-namespace ARCAMovil.Pages;
-using ARCAMovil.Helpers;
-public partial class BibliotecaPage : ContentPage
+using ARCAMovil.Services;
+using ARCAMovil.ViewModels;
+
+namespace ARCAMovil.Pages
 {
-    public BibliotecaPage()
+    public partial class BibliotecaPage : ContentPage
     {
-        InitializeComponent();
-    }
-
-    
-    private async void OnCarpetaClicked(object sender, EventArgs e)
-    {
-        var boton = sender as Button;
-        var carpeta = boton?.Text;
-
-        if (!string.IsNullOrEmpty(carpeta))
+        public BibliotecaPage()
         {
-            await Navigation.PushAsync(new CarpetaPage(carpeta, new List<CarpetaPage.ArchivoPdf>()));
+            InitializeComponent();
+            BindingContext = new BibliotecaViewModel(new CarpetasService(new HttpClient()));
         }
     }
 }
